@@ -23,12 +23,15 @@ https://drive.google.com/uc?id=1muwnik-uFGTKBdHmcQN5z68rD7qmdG-b
 
 ## Tools
 -Python
-- Pandas
+
+-Pandas
 
 ## steps
 
-- Extract dataset
-- - Clean dataset
+-Extract dataset
+
+
+-Clean dataset
 
 
     
